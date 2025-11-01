@@ -12,7 +12,6 @@
         <li class="breadcrumb-item active">Currencies</li>
     </ol>
 @endsection
-
 @section('content')
     <div class="container-fluid">
         <div class="row">
