@@ -6,7 +6,7 @@
 
 # Local Installation
 
-- run `` git clone https://github.com/FahimAnzamDip/triangle-pos.git ``
+- run `` git clone https://github.com/Bill2030/Bill_POS.git ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
